@@ -93,3 +93,9 @@ https://user-images.githubusercontent.com/29578054/160292493-11231ac1-7968-4097-
 - 📑 [API 설계](https://chartreuse-saltopus-d7d.notion.site/API-ed28a23d43e84f91bbebb1bcf8ad3f2d)
 
 - 💾 [DB 명세서](https://chartreuse-saltopus-d7d.notion.site/DB-940af7144ce2452cab28e2474527a64f)
+
+## 👩🏻‍🤝‍👩🏻👩‍💻 SANTADA 팀
+
+- Front-End Developer👩‍💻 [김준수](https://github.com/skdksldk)
+- Front-End Developer👩‍💻 [송미숙](https://github.com/songmi134)
+- Back-End Developer👩‍[김이수] : https://github.com/skdksldk/santada
