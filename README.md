@@ -20,6 +20,21 @@ SANTADA와 함께 등산을 즐깁시다! 🙌🌏💪
 - 등산 후기에 관심이 있는 사람
 - 취미가 등산인 사람
 
+## ✨시연영상
+
+
+
+
+https://user-images.githubusercontent.com/29578054/160292493-11231ac1-7968-4097-898f-04979c710822.mp4
+
+
+
+
+## 🌏 사이트
+
+<https://santadacom.herokuapp.com/>
+
+
 ## ⏰ 개발 기간
 
 - 2022.02 ~ 2022.03
